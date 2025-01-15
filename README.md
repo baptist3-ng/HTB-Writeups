@@ -1,19 +1,25 @@
 # 📂 HackTheBox Writeups
 
-My personal writeups for HackTheBox machines. 🧠💻  
+Welcome to my personal collection of HackTheBox machine writeups! 🧠💻  
+Here, I document my experiences and the steps I took to solve various HTB challenges.
 
-## Machines 
+## 🔐 Machines Writeups
 
-The following machines have a writeup, password protected :
-- **Chemistry** : ------------------- *:x: still active*
-- **Instant** : ------------------- *:x: still active*
-- **Cicada** : ------------------- *:x: still active*
-- **Administrator** : ------------------- *:x: still active*
-- **Alert** : ------------------- *:x: still active*
-- **LinkVortex** : ------------------- *:x: still active*
-- **UnderPass** : ------------------- *:x: still active*
+The following machines have a writeup, but they are password protected to follow HTB's rules:
 
-## ⚠️ **Disclaimer:** No solutions for active content, respecting HTB rules. 🙏  
+- **Chemistry** - *:x: Still active*
+- **Instant** - *:x: Still active*
+- **Cicada** - *:x: Still active*
+- **Administrator** - *:x: Still active*
+- **Alert** - *:x: Still active*
+- **LinkVortex** - *:x: Still active*
+- **UnderPass** - *:x: Still active*
 
+## ⚠️ **Disclaimer**
 
-💻 **Happy Hacking!** 🎉  
+No solutions are provided for active content to respect HackTheBox rules. 🙏  
+These writeups are shared for educational purposes once a machine is retired.
+
+---
+
+💻 **Happy Hacking!** 🎉
