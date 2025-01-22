@@ -14,6 +14,7 @@ The following machines have a writeup, but they are password protected to follow
 - **Alert** - *:x: Still active*
 - **LinkVortex** - *:x: Still active*
 - **UnderPass** - *:x: Still active*
+- **EscapeTwo** - *:x: Still active*
 
 ## ⚠️ **Disclaimer**
 
