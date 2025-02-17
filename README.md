@@ -9,7 +9,7 @@ The following machines have a writeup, but they are password protected to follow
 
 - **Chemistry** - *:x: Still active*
 - **Instant** - *:x: Still active*
-- **Cicada** - *:x: Still active*
+- **Cicada** - *h-Mw!WP_a%UcHbXnqSJF :white_check_mark: Retired*
 - **Administrator** - *:x: Still active*
 - **Alert** - *:x: Still active*
 - **LinkVortex** - *:x: Still active*
