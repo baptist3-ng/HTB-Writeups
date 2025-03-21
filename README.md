@@ -7,7 +7,7 @@ Here, I document my experiences and the steps I took to solve various HTB challe
 
 The following machines have a writeup, but they are password protected to follow HTB's rules:
 
-- **Chemistry** - *:x: Still active*
+- **Chemistry** - *Gc2HX&eiCZ+Ftp#5RoEz :white_check_mark: Retired*
 - **Instant** - *jAQWiY-+7M2qXTnLbBVZ :white_check_mark: Retired*
 - **Cicada** - *h-Mw!WP_a%UcHbXnqSJF :white_check_mark: Retired*
 - **Administrator** - *:x: Still active*
